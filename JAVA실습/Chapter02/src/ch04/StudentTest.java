@@ -5,18 +5,18 @@ public class StudentTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Student studentLee = new Student(); //»ı¼ºÀÚ ÇÏ³ª¸¦ »ı¼ºÇØ¶ó. ÇÑ¸íÀÇ ÇĞ»ıÀ» »ı¼ºÇÏ´Â°Í. Lee -> ÀÎ½ºÅÏ½º Å¬·¡½º¸¦ ±â¹İÀ¸·Î ¿©·¯°³ÀÇ ÀÎ½ºÅÏ½º »ı¼º.
+		Student studentLee = new Student(); //ìƒì„±ì í•˜ë‚˜ë¥¼ ìƒì„±í•´ë¼. í•œëª…ì˜ í•™ìƒì„ ìƒì„±í•˜ëŠ”ê²ƒ. Lee -> ì¸ìŠ¤í„´ìŠ¤ í´ë˜ìŠ¤ë¥¼ ê¸°ë°˜ìœ¼ë¡œ ì—¬ëŸ¬ê°œì˜ ì¸ìŠ¤í„´ìŠ¤ ìƒì„±.
 		
 		studentLee.studentID = 12345;
 		studentLee.setStudentName("LEE");
-		studentLee.address= "¼­¿ï½Ã °­³²±¸"; //Lee.¸â¹öº¯¼ö
+		studentLee.address= "ì„œìš¸ì‹œ ê°•ë‚¨êµ¬"; //Lee.ë©¤ë²„ë³€ìˆ˜
 		
 		studentLee.showStudentInfo();
 		
 		Student studentKim =new Student();
 		studentKim.studentName ="KIM";
 		studentKim.studentID=11111;
-		studentKim.address="°æ±âµµ ¼º³²½Ã";
+		studentKim.address="ê²½ê¸°ë„ ì„±ë‚¨ì‹œ";
 			
 		studentKim.showStudentInfo();
 		

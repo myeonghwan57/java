@@ -6,13 +6,13 @@ public class Student {
 	public String studentName;
 	public String address;
 	
-	//»ı¼ºÀÚ ¾øÀ½ µğÆúÆ® »ı¼ºÀÚ »ı¼º student();
+	//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ student();
 	
 	public void showStudentInfo() {
-		System.out.println( studentID + " ÇĞ¹øÀÇ ÀÌ¸§Àº "+ studentName + "ÀÌ°í, ÁÖ¼Ò´Â "+ address+"ÀÔ´Ï´Ù.");
+		System.out.println( studentID + " í•™ë²ˆì˜ í•™ìƒ ì´ë¦„ì€ "+ studentName + "ì´ê³ , ì£¼ì†ŒëŠ” "+ address+" ì…ë‹ˆë‹¤.");
 	}
 	
-	public String getStudentName() { //¹İÈ¯
+	public String getStudentName() { //ï¿½ï¿½È¯
 		return studentName;
 	} 
 	public void setStudentName(String name) {
