@@ -4,7 +4,7 @@ public class OrderInfoTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		OrderInfo order1 = new OrderInfo("111111", "01012345678", "¼­¿ï½Ã °­³²±¸", "20230703", "35000", "0030");
+		OrderInfo order1 = new OrderInfo("111111", "01012345678", "ì„œìš¸ì‹œ ê°•ë‚¨êµ¬", "20230703", "35000", "0030");
 	}
 
 }
