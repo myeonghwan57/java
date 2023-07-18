@@ -20,7 +20,7 @@
 
 private 일때 각 변수에 대한 제한을 public 메서드에서 제어 할 수 있다.
 
-```plaintext
+```java
 public void setMonth(int month) {
 		
 		if ( month < 1 || month > 12) {

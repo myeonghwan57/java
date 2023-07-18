@@ -4,7 +4,7 @@
 
 - 학생 클래스의 속성을 멤버 변수로 선언하고 메서드를 구현한다
 
-```
+```java
 public class Student {
 	
 	public int studentID;
@@ -22,7 +22,7 @@ public class Student {
 ```
 
 - 학생 클래스를 생성하여 생성된 객체(인스턴스)에 각각 다른 이름과 주소를 대입한다
-```
+```java
 public class StudentTest {
 
 	public static void main(String[] args) {

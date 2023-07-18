@@ -14,7 +14,7 @@
 
 함수는 이름, 매개 변수, 반환 값, 함수 몸체(body)로 구성됨
 
-```
+```java
 int add(int num1, int num2) {
 		
 	int result;
@@ -25,7 +25,7 @@ int add(int num1, int num2) {
 
 ## 함수 구현하기 예제
 
-```
+```java
 public class FunctionTest {
 	
 	public static int addNum(int num1, int num2) {
@@ -88,8 +88,3 @@ public class FunctionTest {
 
    예) getStudentName() 
 
-  
-
-## 다음 강의 
-
-[04. 객체의 속성은 멤버 변수로, 객체의 기능은 메서드로 구현한다](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-04/README.md)

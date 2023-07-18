@@ -5,7 +5,7 @@
 - serialNum 변수를 private으로 선언하고 getter/setter 구현
 
 Employee.java
-```
+```java
 private static int serialNum = 1000;
 
  ...
@@ -19,7 +19,7 @@ public static void setSerialNum(int serialNum) {
 ```
 
 - 클래스 이름으로 호출 가능 ( 클래스 메서드, 정적 메서드 )
-```
+```java
 System.out.println(Employee.getSerialNum());
 ```
 
@@ -30,7 +30,7 @@ System.out.println(Employee.getSerialNum());
 - 인스턴스 생성 전에 호출 될 수 있으므로 static 메서드 내부에서는 인스턴스 변수를 사용할 수 없음
 
 Employee.java
-```
+```java
 public static void setSerialNum(int serialNum) {
 		int i = 0;
 		
@@ -40,7 +40,7 @@ public static void setSerialNum(int serialNum) {
 ```
 
 EmployeeTest2.java
-```
+```java
 public class EmployeeTest2 {
 
 	public static void main(String[] args) {

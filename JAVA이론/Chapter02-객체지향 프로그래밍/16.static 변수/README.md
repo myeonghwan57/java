@@ -28,7 +28,7 @@ static int serialNum;
 ## static 변수 테스트하기
 
 Employee.java
-```
+```java
 public class Employee {
 
 	public static int serialNum = 1000;
@@ -59,7 +59,7 @@ public class Employee {
 }
 ```
 EmployeeTest.java
-```
+```java
 public class EmployeeTest {
 
 	public static void main(String[] args) {
@@ -87,7 +87,7 @@ public class EmployeeTest {
 ## 회사원이 입사할 때마다 새로운 사번 부여하기
 
 Employee.java 생성자 구현
-```
+```java
 ...
 
 	public Employee()
@@ -101,7 +101,7 @@ Employee.java 생성자 구현
 ```
 
 EmployeeTest.java
-```
+```java
 public class EmployeeTest {
 
 	public static void main(String[] args) {
@@ -120,7 +120,7 @@ public class EmployeeTest {
 
 ## static 변수와 메서드는 인스턴스 변수, 메서드가 아니므로 클래스 이름으로 직접 참조
 
-```
+```java
 System.out.println(Employee.serialNum);
 ```
 

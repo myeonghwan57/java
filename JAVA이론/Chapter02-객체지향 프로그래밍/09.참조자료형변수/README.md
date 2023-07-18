@@ -25,7 +25,7 @@
 - 선언된 Subject 변수는 생성된 인스턴스가 아니므로, Student의 생성자에서 생성하여 사용
 
 Student.java
-```
+```java
 package ch09;
 
 public class Student {
@@ -64,7 +64,7 @@ public class Student {
 ```
 
 Subject.java
-```
+```java
 package ch09;
 
 public class Subject {
@@ -75,7 +75,7 @@ public class Subject {
 ```
 
 StudentTest.java
-```
+```java
 package ch09;
 
 public class StudentTest {

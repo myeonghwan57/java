@@ -8,7 +8,7 @@
 
 ## 레포트 만들기 예제
 
-```plaintext
+```java
 public class MakeReport {
 
 	StringBuffer buffer = new StringBuffer();
@@ -51,7 +51,7 @@ public class MakeReport {
 
 
 
-```plaintext
+```java
 public class TestReprt {
 
 	public static void main(String[] args) {
