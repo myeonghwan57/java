@@ -27,9 +27,8 @@ public class CustomerTest {
 	int price = 10000;
 	for(Customer c : customerList) {
 		System.out.println("=======================");
-		System.out.println(c.calcPrice(price));
-		System.out.println(c.getCustomerName());
-		System.out.println(c.bonusPoint);
+		System.out.println(c.getCustomerName()+" 님이 "+c.calcPrice(price)+" 원 지불하셨습니다.");
+		System.out.println(c.getCustomerName()+ " 님의 현재 보너스 포인트는 " + c.bonusPoint + " 입니다.");
 		
 	}
 	}
