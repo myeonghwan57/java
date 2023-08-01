@@ -1,21 +1,21 @@
-package ch03;
+package ch02;
 
 public class MyArray {
 
 	int[] intArr;   	//int array
-	int count;  		//개수
+	int count;  		//요소 개수
 		
 	public int ARRAY_SIZE;
 	public static final int ERROR_NUM = -999999999;
 	
-	public MyArray()
+	public MyArray()// 사이즈 정해진것 
 	{
 		count = 0;
 		ARRAY_SIZE = 10;
 		intArr = new int[ARRAY_SIZE];
 	}
 	
-	public MyArray(int size)
+	public MyArray(int size) // 정해지지 않은것
 	{
 		count = 0;
 		ARRAY_SIZE = size;
