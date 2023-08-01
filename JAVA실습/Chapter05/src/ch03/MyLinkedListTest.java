@@ -1,4 +1,4 @@
-package ch04;
+package ch03;
 
 public class MyLinkedListTest {
 
