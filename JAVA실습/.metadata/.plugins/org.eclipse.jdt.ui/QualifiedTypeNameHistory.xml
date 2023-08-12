@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ch09.Student"/>
-    <fullyQualifiedTypeName name="ch10.Birthday"/>
-    <fullyQualifiedTypeName name="ch11.MakeReport"/>
-    <fullyQualifiedTypeName name="sun.awt.Symbol"/>
-    <fullyQualifiedTypeName name="ch14.Subway"/>
-    <fullyQualifiedTypeName name="ch16.Employee"/>
-    <fullyQualifiedTypeName name="ch18.Company"/>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="ch19.CarFactory"/>
     <fullyQualifiedTypeName name="ch21.Book"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
@@ -37,7 +29,6 @@
     <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.oracle.UserInfoOracleDao"/>
     <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.mysql.UserInfoMysqlDao"/>
     <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.UserInfoDao"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ch15.Shelf"/>
     <fullyQualifiedTypeName name="ch15.Queue"/>
     <fullyQualifiedTypeName name="ch15.BookShelf"/>
@@ -60,4 +51,13 @@
     <fullyQualifiedTypeName name="ch06.ThreeDPrinter3"/>
     <fullyQualifiedTypeName name="ch06.Powder"/>
     <fullyQualifiedTypeName name="ch06.GenericPrinter"/>
+    <fullyQualifiedTypeName name="ch07.Material"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="ch08.Point"/>
+    <fullyQualifiedTypeName name="ch08.GenericMethod"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ch10.MemberArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="ch11.Member"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
 </qualifiedTypeNameHistroy>
