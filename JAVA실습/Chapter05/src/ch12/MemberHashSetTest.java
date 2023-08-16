@@ -3,25 +3,21 @@ package ch12;
 public class MemberHashSetTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
-		MemberHashSet memberhashset = new MemberHashSet();
-		Member member1 = new Member(1001,"LEE");
-		Member member2 = new Member(1002,"KIM");
-		Member member3 = new Member(1003,"KANG");
-		Member member4 = new Member(1004,"PARK");
-		Member member5 = new Member(1005,"CHOI");
+		MemberHashSet memberHashSet = new MemberHashSet();
 		
-		memberhashset.addMember(member1);
-		memberhashset.addMember(member2);
-		memberhashset.addMember(member3);
-		memberhashset.addMember(member4);
-		memberhashset.addMember(member5);
+		Member memberLee = new Member(1001, "이순신");
+		Member memberKim = new Member(1002, "김유신");
+		Member memberKang = new Member(1003, "강감찬");
 		
-		memberhashset.showAllMember();
-		memberhashset.removeMember(1001);
-		memberhashset.showAllMember();
-		memberhashset.removeMember(1006);
+		
+		memberHashSet.addMember(memberLee);
+		memberHashSet.addMember(memberKim);
+		memberHashSet.addMember(memberKang);
+		memberHashSet.showAllMember();
+		
+		Member memberHong = new Member(1003, "홍길동");  //1003 아이디 중복 
+		memberHashSet.addMember(memberHong);
+		memberHashSet.showAllMember();
 	}
-
 }
