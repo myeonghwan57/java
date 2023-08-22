@@ -1,4 +1,4 @@
-package ch02;
+package ch01;
 class Outter{
 	int outNum = 100; // 인스턴스 변수
 	static int sNum = 200;
