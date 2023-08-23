@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ch19.CarFactory"/>
-    <fullyQualifiedTypeName name="ch21.Book"/>
-    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
-    <fullyQualifiedTypeName name="ch24.Subject"/>
-    <fullyQualifiedTypeName name="ch02.Customer"/>
-    <fullyQualifiedTypeName name="ch02.VipCustomer"/>
-    <fullyQualifiedTypeName name="ch03.VipCustomer"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="ch06.Human"/>
-    <fullyQualifiedTypeName name="ch06.Animal"/>
     <fullyQualifiedTypeName name="ch06.Tiger"/>
     <fullyQualifiedTypeName name="ch06.Eagle"/>
     <fullyQualifiedTypeName name="ch06.AnimalTest"/>
@@ -60,4 +50,14 @@
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="ch11.Member"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="ch01.OutClass.InClass"/>
+    <fullyQualifiedTypeName name="ch01.OutClass"/>
+    <fullyQualifiedTypeName name="ch01.OutClass.InStaticClass"/>
+    <fullyQualifiedTypeName name="ch01.Main"/>
+    <fullyQualifiedTypeName name="ch01.Main.Sub"/>
+    <fullyQualifiedTypeName name="MyRunnable"/>
+    <fullyQualifiedTypeName name="ch02.Outter"/>
+    <fullyQualifiedTypeName name="ch03.MyNumber"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="ch04.StringConcat"/>
 </qualifiedTypeNameHistroy>
