@@ -6,7 +6,7 @@ class ArrayListEx01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ArrayList<Integer> list1 =  new ArrayList<Integer>(10);
+		ArrayList list1 =  new ArrayList(10);
 		list1.add(new Integer(5));
 		list1.add(new Integer(4));
 		list1.add(new Integer(2));
