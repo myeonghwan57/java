@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ch06.Tiger"/>
-    <fullyQualifiedTypeName name="ch06.Eagle"/>
-    <fullyQualifiedTypeName name="ch06.AnimalTest"/>
-    <fullyQualifiedTypeName name="ch06.GoldCustomer"/>
-    <fullyQualifiedTypeName name="ch08.Animal"/>
-    <fullyQualifiedTypeName name="ch09.Desktop"/>
-    <fullyQualifiedTypeName name="ch09.NoteBook"/>
-    <fullyQualifiedTypeName name="ch09.MyNoteBook"/>
-    <fullyQualifiedTypeName name="ch10.AICar"/>
-    <fullyQualifiedTypeName name="ch10.ManualCar"/>
     <fullyQualifiedTypeName name="ch11.Calculator"/>
     <fullyQualifiedTypeName name="ch11.CompleteCalc"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
@@ -27,7 +17,6 @@
     <fullyQualifiedTypeName name="ch02.Student"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Cloneable"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
     <fullyQualifiedTypeName name="com.sun.jdi.Method"/>
@@ -45,7 +34,6 @@
     <fullyQualifiedTypeName name="java.lang.Number"/>
     <fullyQualifiedTypeName name="ch08.Point"/>
     <fullyQualifiedTypeName name="ch08.GenericMethod"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ch10.MemberArrayList"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="ch11.Member"/>
@@ -60,4 +48,16 @@
     <fullyQualifiedTypeName name="ch03.MyNumber"/>
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
     <fullyQualifiedTypeName name="ch04.StringConcat"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+    <fullyQualifiedTypeName name="ch05.IntArrayStreamTest"/>
+    <fullyQualifiedTypeName name="ch05.ArrayListStreamTest"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="ch06.CompareString"/>
+    <fullyQualifiedTypeName name="ch07.TravelCustomer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
