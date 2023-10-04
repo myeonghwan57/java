@@ -2,6 +2,7 @@ package ch07;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class TravelCustomerTest {
 
@@ -25,6 +26,9 @@ public class TravelCustomerTest {
 	
 		System.out.println("나이가 20세 이상인 사람");
 		customerList.stream().filter(c->c.getAge() >= 20).map(c->c.getName()).sorted().forEach(s->System.out.println(s));
+		
+		System.out.println("나이순 출력");
+		customerList.stream().sorted(Comparator.comparing(TravelCustomer::getAge)).forEach(s->System.out.println(s.getAge() +", "+ s.getName()));
 	}
 
 }
