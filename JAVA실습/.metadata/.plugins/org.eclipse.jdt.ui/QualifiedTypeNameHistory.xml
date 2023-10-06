@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ch11.Calculator"/>
-    <fullyQualifiedTypeName name="ch11.CompleteCalc"/>
-    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
-    <fullyQualifiedTypeName name="java.util.Properties"/>
-    <fullyQualifiedTypeName name="ch13.web.userInfo.UserInfoClient"/>
-    <fullyQualifiedTypeName name="ch13.domain.userinfo.UserInfo"/>
-    <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.oracle.UserInfoOracleDao"/>
-    <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.mysql.UserInfoMysqlDao"/>
-    <fullyQualifiedTypeName name="ch13.domain.userinfo.dao.UserInfoDao"/>
-    <fullyQualifiedTypeName name="ch15.Shelf"/>
     <fullyQualifiedTypeName name="ch15.Queue"/>
     <fullyQualifiedTypeName name="ch15.BookShelf"/>
     <fullyQualifiedTypeName name="ch16.game.PlayerLevel"/>
     <fullyQualifiedTypeName name="ch16.schedule.Scheduler"/>
     <fullyQualifiedTypeName name="ch02.Student"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Cloneable"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
@@ -54,10 +43,21 @@
     <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.stream.Stream"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="ch06.CompareString"/>
-    <fullyQualifiedTypeName name="ch07.TravelCustomer"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="ch07.TravelCustomer"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="ch09.ArrayIndexException"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ch10.PasswordTest"/>
+    <fullyQualifiedTypeName name="ch10.PasswordException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
 </qualifiedTypeNameHistroy>
