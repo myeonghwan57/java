@@ -31,6 +31,7 @@ public class Counting {
 			else if(age < 90) ages[6]++;
 			else if(age <= 100) ages[7]++;
 		}
+        
 		int number = people.length;
 		System.out.println( number + "명 중 20대는 " + ages[0]+ "명 입니다.");
 		System.out.println( number + "명 중 30대는 " + ages[1]+ "명 입니다.");
